@@ -1,22 +1,26 @@
 Initial Idea: 
-Build an interface that helps people research topics and new discoveries.
+Build an interface to help people find jobs
 
 Functionality:
-1. Summarize new and recent papers. Grounded in relevant previous discoveries.
-2. Allow users to ask questions about scientfic/research topics. Grounded in credible sources. 
-3. Create summary images with nanobanana?
+1. Upload a resume and get tailored insights
+2. Find jobs tailored to resume
+3. Coaching/Interview advice
 
 Open Questions:
-1. Allowlist of sources - Arxiv, HuggingFace.co, NASA?, Wikipedia?, Google Scholars?
-2. Do we need a blocklist? 
+1. How do we find the jobs? Use SLM/LLM with web search to get a list of jobs
+2. What do we use for multi-modal with coaching/interview?
 
 Building/Infrastructure: 
-1. LLM to summarize a paper
-2. SLM to rerank from Arxiv
-3. UI/UX
+1. Upload and parse user resume
+2. Run SLM with resume insights for jobs
+3. Rank best jobs 
+4. Show resume insights and recommendations based on jobs
+5. Leverage multi-modal for audio, speech detection. 
 
 Documentation:
 
+
 Similar Competitors:
-https://www.alphaxiv.org/
-https://www.emergentmind.com/
+LinkedIn
+Indeed
+Zip2Recruiter
