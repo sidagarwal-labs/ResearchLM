@@ -1,0 +1,21 @@
+1. Prepare a 1–2 page project proposal document that includes the following sections:
+
+Problem statement and target users
+
+Proposed solution and key features
+
+Technical stack (APIs, frameworks, databases)
+
+System architecture diagram
+
+Success criteria and evaluation metrics
+
+The proposal should clearly describe the project idea and demonstrate feasibility within the course timeline.
+
+Include a system architecture diagram (can be created using Draw.io, Lucidchart, PowerPoint, Google Slides, etc.) and embed it in the proposal document.
+
+Upload the proposal as a PDF or DOC/DOCX file to this Canvas assignment.
+
+Instructor feedback will be provided after submission. Instructor approval is required to proceed with the project.
+
+As part of this assignment, students must make commits to their project repository and submit a short (1-page) report describing the work completed for this milestone on Canvas.
